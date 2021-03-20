@@ -1,4 +1,3 @@
-# pandas-challenge
-pandas homework: Heroes of Pymoli
+# Heroes-of-Pymoli
 
-Note: Written description of three observable trends are included in the Jupyter Notebook (.ipynb) file at the very end.
+Penn Data Boot Camp Assignment 4 - Data analysis on the purchasing data of a fictional fantasy game to generate meaningful insights regarding gamer demographics, user behaviors, and in-game items using Pandas.
